@@ -1,1 +1,1 @@
-`#0969DA` **COMP LABS**
+# COMP LABS
